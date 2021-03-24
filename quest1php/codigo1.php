@@ -37,7 +37,6 @@ else {
     }
 }
 
-// close file
 fclose($file);
 
 ?>
